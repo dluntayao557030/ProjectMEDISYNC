@@ -1,0 +1,36 @@
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-16 13:09:07
+Prescription ID: 51
+Patient: Zhaira Nicole Lestojas
+Medication: Demerol (Pethidine (Meperidine))
+Dosage: 25 mg
+Frequency: Twice a day
+Administration Time: 13:08:44
+Patient Assessment: Active
+Adverse Reactions: Feeling Fine
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-16 14:46:24
+Prescription ID: 52
+Patient: Zhaira Nicole Lestojas
+Medication: Himox (Amoxicillin)
+Dosage: 500 mg
+Frequency: Twice a day
+Administration Time: 14:46:12
+Patient Assessment: Active
+Adverse Reactions: Nausea
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+

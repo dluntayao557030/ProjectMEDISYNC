@@ -1,0 +1,108 @@
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 09:24:27
+Prescription ID: 1
+Patient: Maria Santos
+Medication: Biogesic (Paracetamol)
+Dosage: 500 mg
+Frequency: Every 6 hours
+Administration Time: 09:24:05
+Patient Assessment: Active
+Adverse Reactions: Feeling Fine
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 10:05:12
+Prescription ID: 50
+Patient: Zhaira Nicole Lestojas
+Medication: Morphine (Morphine Sulfate)
+Dosage: 20 mg
+Frequency: Four times a day
+Administration Time: 10:04:58
+Patient Assessment: Active
+Adverse Reactions: Vomiting
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 11:22:09
+Prescription ID: 10
+Patient: Maria Santos
+Medication: Risek (Omeprazole)
+Dosage: 40 mg
+Frequency: Once a day
+Administration Time: 11:21:38
+Patient Assessment: Active
+Adverse Reactions: Dizziness
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 17:34:57
+Prescription ID: 50
+Patient: Zhaira Nicole Lestojas
+Medication: Morphine (Morphine Sulfate)
+Dosage: 20 mg
+Frequency: Four times a day
+Administration Time: 17:34:35
+Patient Assessment: Active
+Adverse Reactions: Feels Fine
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 18:51:20
+Prescription ID: 50
+Patient: Zhaira Nicole Lestojas
+Medication: Morphine (Morphine Sulfate)
+Dosage: 20 mg
+Frequency: Four times a day
+Administration Time: 18:50:47
+Patient Assessment: Drowsy
+Adverse Reactions: Vomiting
+Status: Administered
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-15 18:56:23
+Prescription ID: 1
+Patient: Maria Santos
+Medication: Biogesic (Paracetamol)
+Dosage: 500 mg
+Frequency: Every 6 hours
+Administration Time: 18:56:10
+Patient Assessment: Active
+Adverse Reactions: Feeling Fine
+Status: Missed
+Administered By: Emma Wilson (ID: 9)
+Remarks: None
+================================================================================
+

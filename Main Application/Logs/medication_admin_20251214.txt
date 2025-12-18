@@ -1,0 +1,36 @@
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-14 20:18:15
+Prescription ID: 10
+Patient: Maria Santos
+Medication: Risek (Omeprazole)
+Dosage: 40 mg
+Frequency: Once a day
+Administration Time: 20:18:05
+Patient Assessment: Confused
+Adverse Reactions: None
+Status: Missed
+Administered By: Alexander Cruz (ID: 9)
+Remarks: None
+================================================================================
+
+
+================================================================================
+MEDICATION ADMINISTRATION AUDIT LOG
+================================================================================
+Timestamp: 2025-12-14 20:40:34
+Prescription ID: 10
+Patient: Maria Santos
+Medication: Risek (Omeprazole)
+Dosage: 40 mg
+Frequency: Once a day
+Administration Time: 20:40:23
+Patient Assessment: Active
+Adverse Reactions: Vomiting
+Status: Administered
+Administered By: Alexander Cruz (ID: 9)
+Remarks: None
+================================================================================
+
